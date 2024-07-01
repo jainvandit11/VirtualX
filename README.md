@@ -9,8 +9,14 @@
 
 
 OUR APPlICATION APK : https://drive.google.com/file/d/1-rVhLpl-N0-tvMRY8gJm1A3fFBVNIVTx/view?usp=sharing
+<h2> Made by -</h2> 
+Vandit jain<br>
+Rishabh saini<br>
+Niharika varshney <br>
+
 
 <h3> Problem Statement</h3>
+
 
 Traditional education can be boring, passive, and one-size-fits-all. This can lead to disengagement and poor learning outcomes.Also Poor infrastructure also leads to less than ideal quality of education. Most villages in India lack schools, much less devices to support quality education. 
 
